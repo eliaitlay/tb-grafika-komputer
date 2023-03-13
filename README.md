@@ -1,2 +1,1 @@
-# tb-grafika-komputer
-Membuat mode dark 
+# Uas-Mode-dark
